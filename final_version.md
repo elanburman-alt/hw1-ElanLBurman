@@ -1,6 +1,7 @@
 # Elan Burman Introduction
+I grew up in Cape Town, South Africa, and made my way to the U.S. for graduate school — a master's in fundraising at Brandeis and a master's in information systems at Northwestern, following an undergraduate degree in politics, philosophy, and economics from the University of Cape Town. Fundraising has been my calling ever since, and I currently serve as Associate Vice President of Philanthropy at Adventist HealthCare in Maryland. I came into the MBA program focused on healthcare administration, but AI quickly pulled me in and I'm now pursuing a second specialization.
 
-I grew up in Cape Town, South Africa, where I completed my undergraduate degree at the University of Cape Town with a major in Politics, Philosophy, and Economics. From there, my academic journey took me to Brandeis University, where I earned a Master's in Jewish Communal Service with a specialization in fundraising, and later to Northwestern University for a Master's in Information Systems. I am currently an MBA candidate at Johns Hopkins Carey Business School. Professionally, I have spent my entire career as a fundraiser, and today I serve as Associate Vice President of Philanthropy at Adventist HealthCare in Maryland. On the personal side, I've been happily married for nearly 18 years, and my wife and I are raising a 15-year-old daughter and a 13-year-old son. Our Rottweiler-Lab mix, Maggie, rounds out the family. Outside of work, I love cooking, reading non-fiction — with a particular passion for politics — and spending time with friends and family.
+At home, I've been happily married for nearly 18 years. My wife and I are raising a 15-year-old daughter and a 13-year-old son, with our Rottweiler-Lab mix Maggie rounding out the crew. When I'm not working or studying, you'll find me cooking, reading — especially anything on politics — or just enjoying time socializing.
 
 ## Leveraging AI for Better Donor Retention in the Hospital and Health System Setting
 
@@ -25,3 +26,15 @@ Beyond my own work in philanthropy, I find myself deeply excited — and, as som
 - **Administrative cost reduction through automation.** A staggering share of healthcare spending goes to administrative tasks — prior authorizations, claims processing, clinical documentation, scheduling. Generative AI and intelligent automation can streamline these workflows, freeing up clinician time for patient care and reducing the overhead costs that ultimately get passed along to patients and payers.
 - **Clinical decision support for better outcomes.** AI models trained on vast datasets of patient records, imaging, and genomic information can surface patterns that help clinicians catch diseases earlier, choose more effective treatments, and reduce diagnostic errors — raising the overall quality of care without necessarily adding cost.
 - **Expanding access through virtual care and triage.** AI-powered chatbots, symptom checkers, and virtual health assistants can serve as a front door to the health system for people in underserved or rural communities, helping them navigate their options, answer basic health questions, and connect with the right provider at the right time — breaking down barriers of geography, language, and health literacy that have historically kept too many people from getting the care they deserve.
+
+## What the assistant did well: [1-2 sentences]
+The assistant did a great job taking the very brief descriptions of my interest areas and building them into a broader narrative. While the personal narrative feels unnatural to me, it captured all of the input information and reflected it in first person as instructed. Finally, the system accurately created the file as instructed/
+
+## What I needed to clarify or adjust: [1-2 sentences]
+As noted, the personal biography feels too academic heavy and reads as a laundry list of academic qualifications, rather than a more natural expression of my identity.
+
+## What I changed: [describe your edits]
+
+Why I changed it: I edited the original biography to read more personally and to reflect the way I might write about myself a little more organically. 
+
+One thing I didn't want to keep as-is: I wanted to connect the dots between my personal experiences a little more and make it shorter.
