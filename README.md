@@ -15,4 +15,4 @@ draft and my manually edited final version.
 3. my own edited version
 
 ## Video walkthrough
-[Link coming — will add after recording]
+[(https://youtu.be/RV3DCUgovBw)]
